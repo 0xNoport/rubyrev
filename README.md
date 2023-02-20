@@ -1,2 +1,3 @@
 # reverse_shell_with_output_on_windows
-A reverse shell in ruby that redirects the output of programs on windows back to the host
+
+These are two poorly written ruby scripts that can be used (as long as ruby is installed) as a better reverse shell when you don't have access to/are not allowed to use metasploit's meterpreter.
