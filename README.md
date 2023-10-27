@@ -1,7 +1,7 @@
 # Ruby Reverse Shell
 
 Requirements:
-[o] = Server that receives the reverse shell must have ruby installed, they victim doesn't
+**[o] = Server that receives the reverse shell must have ruby installed, they victim doesn't**
 
 These are scripts/exes that can be used as a better reverse shell. It's basically a reverse shell that sends the output of the executions back to you which wouldn't be possible with netcat.
 
