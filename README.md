@@ -5,7 +5,7 @@ Requirements:
 **=> Server that receives the reverse shell must have ruby installed, they victim doesn't**
 
 <br>
-These are scripts/exes that can be used as a better reverse shell. It's basically a reverse shell that sends the output of the executions back to you which wouldn't be possible with netcat.
+These are scripts/exes that can be used as a better reverse shell. It's a basic reverse shell. Same would be possible using netcat. The advantage is that this program has a unique signature while netcat's exe is known.
 
 
 
