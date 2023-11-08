@@ -4,9 +4,9 @@
 
 ## Requirements:
 
-**[o] Server that receives the reverse shell must have ruby installed, they victim doesn't**
+**[!] Server that receives the reverse shell must have ruby installed, they victim doesn't**
 
-**[o] You might need to recompile the exe, depending on your architecture.**
+**[!] You might need to recompile the exe, depending on your architecture.**
 
 <br>
 These are scripts/exes that can be used as a better reverse shell. It's a basic reverse shell. Same would be possible using netcat. The advantage is that this program has a unique signature while netcat's exe is known.
