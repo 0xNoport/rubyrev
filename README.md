@@ -4,7 +4,7 @@
 
 ## Requirements:
 
-**[!] Server that receives the reverse shell must have ruby installed, they victim doesn't**
+**[!] Server that receives the reverse shell must have ruby installed, the victim doesn't**
 
 **[!] You might need to recompile the exe, depending on your architecture.**
 
