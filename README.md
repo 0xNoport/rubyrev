@@ -1,6 +1,6 @@
 # Ruby Reverse Shell
 
-
+This reverse shell is useful when other reverse shells get flagged by AV by signature-based detection.
 
 ## Requirements:
 
